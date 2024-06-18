@@ -1,0 +1,15 @@
+p {
+    color: blue
+}
+.login-aja {
+    background: green;
+    color: white;
+    font-size: 18px;
+    font-weight: bold;
+}
+.logout-bang {
+    background: red;
+    color: white;
+    font-size: 18px;
+    font-weight: bold;
+}
